@@ -1,0 +1,18 @@
+{
+    "id": "mc-server-dashboard",
+    "version": "0.1",
+    "name": "Minecraft Server Dashboard",
+    "description": "A plugin shows server status and statistics on web page.",
+    "author": [
+        "Jeb Feng"
+    ],
+    "link": "https://github.com/Ranzeplay/mc-server-dashboard",
+    "dependencies": {
+		"mcdreforged": "*",
+		"minecraft_data_api": "*"
+    },
+
+    "resources": [
+        "lang"
+    ]
+}
